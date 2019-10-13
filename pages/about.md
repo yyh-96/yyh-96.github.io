@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 编成改变世界
+keywords: yyh, 尹耀辉
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+机械转行入IT
 
-仰慕「优雅编码的艺术」。
+是程序员，但不仅是程序员
 
 坚信熟能生巧，努力改变人生。
 
