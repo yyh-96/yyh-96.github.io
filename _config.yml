@@ -102,7 +102,7 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: yyh-96
+    owner: blog
     repo: blog-comments
     clientID: 5fe066aba6fca88b7bd5
     clientSecret: 1f395407be57da7b7714641ac5770468769358b9
