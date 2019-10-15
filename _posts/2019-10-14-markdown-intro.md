@@ -10,7 +10,7 @@ keywords: Markdown
 
 ---
 
-那么首先我们一起来看一下它的「定义」：
+首先我们一起来看一下它的「定义」：
 
 > Markdown 是一种轻量级标记语言，创始人为 John Gruber。它允许人们「使用易读易写的纯文本格式编写文档，然后转换成有效的 XHTML（或者 HTML）文档」。——维基百科
 
@@ -419,6 +419,7 @@ Markdown 标记语言的目的不是替代 HTML，也不是发明一种更便捷
 前面这段代码更改CSS样式，可以改表表格显示列宽。
 
 ```html 
+<style>
 table th:first-of-type{
   width: 360px;
 }
